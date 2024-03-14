@@ -18,6 +18,7 @@ Ide used is Eclipse.
 ## Link ad altri miei progetti personali / Links to other personal projects
 
 - [ ] [Tecniche di Programmazione/ Programming Techniques](https://gitlab.com/serenarocc/tecniche-di-programmazione-linguaggio-c)
+- [ ] [Algoritmi linguaggio C / Algorithms](https://gitlab.com/serenarocc/algoritmi-linguaggio-c)
 - [ ] [Algoritmi e Strutture Dati / Algorithms and Data Structures](https://gitlab.com/serenarocc/algoritmi-e-strutture-dati-linguaggio-c)
 - [ ] [Sistemi Operativi/ Operating Systems](https://gitlab.com/serenarocc/sistemi-operativi) 
 - [ ] [Calcolatori Elettronici/Computer architecture](https://gitlab.com/serenarocc/calcolatori-elettronici-linguaggio-assembly-mips)
